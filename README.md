@@ -26,13 +26,13 @@ Usage:
 	./ghosttunnel [interface]
 	./ghosttunnel [interface1] [interface2]
 
-COMMANDS:
-	sessions = list all clients
-	use = select a client to operate, use [clientID]
-	exit = exit current operation
-	wget = download a file from a client, wget [filepath]
-	quit = quit ghost tunnel
-	help = show this usage help
+	COMMANDS:
+		sessions = list all clients
+		use = select a client to operate, use [clientID]
+		exit = exit current operation
+		wget = download a file from a client, wget [filepath]
+		quit = quit ghost tunnel
+		help = show this usage help
 
 
 - Client
