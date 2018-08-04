@@ -1,4 +1,11 @@
-﻿#include "data_handler.h"
+﻿/*
+ *  Copyright (C) 2018 E7mer of PegasusTeam <haimohk@gmail.com>
+ *
+ *  This file is a part of GhostTunnel
+ *
+*/
+
+#include "data_handler.h"
 #include "os_func.h"
 #include <process.h>
 #include <strsafe.h>

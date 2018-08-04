@@ -1,4 +1,11 @@
-﻿#ifndef _HANDLE_DATA_H_
+﻿/*
+ *  Copyright (C) 2018 E7mer of PegasusTeam <haimohk@gmail.com>
+ *
+ *  This file is a part of GhostTunnel
+ *
+*/
+
+#ifndef _HANDLE_DATA_H_
 #define _HANDLE_DATA_H_
 #include "witunnel.h"
 #include "gt_common.h"

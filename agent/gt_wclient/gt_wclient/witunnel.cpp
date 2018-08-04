@@ -1,4 +1,11 @@
-﻿#include <Shlwapi.h>
+﻿/*
+ *  Copyright (C) 2018 E7mer of PegasusTeam <haimohk@gmail.com>
+ *
+ *  This file is a part of GhostTunnel
+ *
+*/
+
+#include <Shlwapi.h>
 #include <stdio.h>
 #include <VersionHelpers.h>
 #include "witunnel.h"

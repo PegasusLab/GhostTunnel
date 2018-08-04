@@ -1,4 +1,11 @@
-﻿#include <windows.h>
+﻿/*
+ *  Copyright (C) 2018 E7mer of PegasusTeam <haimohk@gmail.com>
+ *
+ *  This file is a part of GhostTunnel
+ *
+*/
+
+#include <windows.h>
 #include <stdio.h>
 #include "data_handler.h"
 

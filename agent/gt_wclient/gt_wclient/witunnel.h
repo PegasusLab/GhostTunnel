@@ -1,4 +1,11 @@
-﻿#ifndef _WIFI_TUNNEL_H_
+﻿/*
+ *  Copyright (C) 2018 E7mer of PegasusTeam <haimohk@gmail.com>
+ *
+ *  This file is a part of GhostTunnel
+ *
+*/
+
+#ifndef _WIFI_TUNNEL_H_
 #define _WIFI_TUNNEL_H_
 
 #include <windows.h>
