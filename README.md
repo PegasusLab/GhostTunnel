@@ -66,6 +66,10 @@ Usage:
 		Microsoft Visual Studio 2015 
 
 
+For Nethunter(tested on Nexus5):
+- Add ```#include <errno.h>``` on the top in gt_server.cpp
+- ```apt-get install libpcap0.8-dev```
+- cd src && make
 
 # Thanks 
 
