@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=2s7qFLCafSI
 # Building
 
 ### Server Requirements
-	apt-get install pkg-config libnl-3-dev libnl-genl-3-dev 
+	sudo apt-get install pkg-config libnl-3-dev libnl-genl-3-dev libpcap-dev
 
 
 ### Compiling
