@@ -18,7 +18,7 @@ cpp_objs:
 
 ghosttunnel:
 	$(MAKE) -C libwifi || exit 1;
-	g++ -o ghosttunnel ghosttunnel.cpp $(C_OBJS) $(CPP_OBJS) $(shell pkg-config --cflags --libs libnl-3.0 libnl-genl-3.0) -L./libwifi/kismet -L./libwifi/aircrack-ng -losdep -lkismetlinuxwifi -lm -lpthread
+	g++ -o ghosttunnel ghosttunnel.cpp $(C_OBJS) $(CPP_OBJS) -L./libwifi/kismet -L./libwifi/aircrack-ng -losdep -lkismetlinuxwifi -lm -lpthread $(shell pkg-config --cflags --libs libnl-3.0 libnl-genl-3.0)
 
 
 install:
